@@ -1,0 +1,399 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="27.1.4">
+  <diagram name="Page-1" id="s-rUgGpoQ07TpKoN-t13">
+    <mxGraphModel dx="4686" dy="2180" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-189" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="-dUA0mCH3mIMWfCApLRG-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1474.1333211263022" y="-75.26668294270826" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-190" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="2" target="-dUA0mCH3mIMWfCApLRG-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-191" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="-dUA0mCH3mIMWfCApLRG-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1998" y="-205.00333333333333" as="sourcePoint" />
+            <mxPoint x="2842" y="0.3699999999999992" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-192" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="-dUA0mCH3mIMWfCApLRG-171">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3671.5339999999997" y="-30.27400000000003" as="targetPoint" />
+            <mxPoint x="2030" y="-241.9971838443295" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2" value="Proyecto: &#xa;Secure QR" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1925" y="-259" width="112" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-63" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-66" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="3" target="-dUA0mCH3mIMWfCApLRG-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-67" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="3" target="-dUA0mCH3mIMWfCApLRG-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="1. Inicio del Proyecto." style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="133" y="-13" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6" target="15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="1.1 Revisión del Acta de Constitución." style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-131" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-98" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="15" target="16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="1.1.1 Analizar los objetivos, Alcances y Riesgos." style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="1.1.2 Confirmar entregables y supuestos clave." style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-64" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-55" target="-dUA0mCH3mIMWfCApLRG-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-55" value="1.2 Asignación de Roles." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-99" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-56" target="-dUA0mCH3mIMWfCApLRG-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-56" value="1.2.1 Definir líder de proyecto y desarrollador." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="111" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-57" value="1.2.2 Asignar responsabilidades (Front end, Back end, pruebas)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="111" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-58" target="-dUA0mCH3mIMWfCApLRG-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-58" value="1.3 Preparación del entorno de trabajo." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="391" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-100" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-59" target="-dUA0mCH3mIMWfCApLRG-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-59" value="1.3.1 Instalación de IDE (Android Studio)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="228" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-101" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-60" target="-dUA0mCH3mIMWfCApLRG-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-60" value="1.3.2 Configuración del control de versiones (Git/Github)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="330" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-68" value="1.3.3 Definir Canales de comunicación (Discord)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="372" y="432" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-72" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-75" target="-dUA0mCH3mIMWfCApLRG-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-75" value="2.1 Levantamiento de requisitos." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="652" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-102" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-76" target="-dUA0mCH3mIMWfCApLRG-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-76" value="2.1.1 Analizar requerimientos de usuarios potenciales." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-103" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-77" target="-dUA0mCH3mIMWfCApLRG-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-104" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-77" target="-dUA0mCH3mIMWfCApLRG-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-77" value="2.1.2 Identificación de funcionalidades mínimas (MVP)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-78" value="2.1.3 Redacción de documento de requisitos funcionales y no funcionales." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="438" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-95" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-79" target="-dUA0mCH3mIMWfCApLRG-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-96" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-79" target="-dUA0mCH3mIMWfCApLRG-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-97" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-79" target="-dUA0mCH3mIMWfCApLRG-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-79" value="2. Análisis y Diseño." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="935" y="-13" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-81" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-84" target="-dUA0mCH3mIMWfCApLRG-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-84" value="2.2 Diseño y arquitectura de la app." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="935" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-108" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-85" target="-dUA0mCH3mIMWfCApLRG-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-85" value="2.2.1 Definir módulos principales (Escaneo, Validación, Historial, Educativo)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="914" y="230" width="156" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-109" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-86" target="-dUA0mCH3mIMWfCApLRG-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-86" value="2.2.2 Selección de librerías y frameworks para Android." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="914" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-87" value="2.2.3 Diagramas de clase y flujo de datos." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="916" y="438" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-88" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-91" target="-dUA0mCH3mIMWfCApLRG-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-91" value="2.3 Diseño de interfaz de usuario (UI/UX)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1219" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-110" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-92" target="-dUA0mCH3mIMWfCApLRG-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-92" value="2.3.1 Creación de mockup." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="228" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-111" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-93" target="-dUA0mCH3mIMWfCApLRG-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-93" value="2.3.2 Diseño de prototipos navegables (Figma)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="330" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-94" value="2.3.3 Validación con usuarios (Feedback Inicial)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="432" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-112" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-113" target="-dUA0mCH3mIMWfCApLRG-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-113" value="3.1 Implementación de módulo de escaneo QR." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1493" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-114" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-115" target="-dUA0mCH3mIMWfCApLRG-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-115" value="3.1.1 Integración de librería de escaneo QR." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1471" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-116" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-118" target="-dUA0mCH3mIMWfCApLRG-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-117" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-118" target="-dUA0mCH3mIMWfCApLRG-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-118" value="3.1.2 Configuración de permisos de cámara en Android." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1471" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-119" value="3.1.3 Validación de lectura con diferentes tipos de QR." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1471" y="438" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-120" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-121" target="-dUA0mCH3mIMWfCApLRG-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-121" value="3.2 Implementación de sistema de validación de enlaces." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1776" y="126" width="118" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-122" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-123" target="-dUA0mCH3mIMWfCApLRG-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-123" value="3.2.1 Mostrar URL real antes de ejecutarla." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-124" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-125" target="-dUA0mCH3mIMWfCApLRG-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-125" value="3.2.2 Analizar certificado de seguridad." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-126" value="3.2.3 Alerta visual en caso de enlaces sospechosos." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="438" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-127" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-128" target="-dUA0mCH3mIMWfCApLRG-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-128" value="3.3 Implementación de sección educativa en ciberseguridad." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-129" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-130" target="-dUA0mCH3mIMWfCApLRG-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-130" value="3.3.1 Redacción de contenidos educativos." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2041" y="228" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-131" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-132" target="-dUA0mCH3mIMWfCApLRG-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-132" value="3.3.2 Creación de pantallas educativas." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2041" y="330" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-133" value="3.3.3 Inclusión de tips interactivos (Alertas tipo checklist)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2041" y="432" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-134" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-135" target="-dUA0mCH3mIMWfCApLRG-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-135" value="3.4 Historial de escaneos." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2323" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-136" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-137" target="-dUA0mCH3mIMWfCApLRG-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-137" value="3.4.1 Base de datos local (SQLite)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2304" y="228" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-138" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-139" target="-dUA0mCH3mIMWfCApLRG-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-139" value="3.4.2 Registro de cada escaneo con fecha y hora." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2304" y="330" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-140" value="3.4.3 Interfaz de consulta y eliminación de registros." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2304" y="432" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-142" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-141" target="-dUA0mCH3mIMWfCApLRG-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-143" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-141" target="-dUA0mCH3mIMWfCApLRG-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-144" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-141" target="-dUA0mCH3mIMWfCApLRG-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-145" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-141" target="-dUA0mCH3mIMWfCApLRG-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-141" value="3. Desarrollo" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1924" y="-13" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-147" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-150" target="-dUA0mCH3mIMWfCApLRG-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-148" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-150" target="-dUA0mCH3mIMWfCApLRG-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-149" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-150" target="-dUA0mCH3mIMWfCApLRG-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-150" value="4. Pruebas y Validación." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2824" y="-13" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-151" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-152" target="-dUA0mCH3mIMWfCApLRG-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-152" value="4.1 Pruebas unitarias." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2563" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-154" value="4.1.1 Verificar funcionamiento de cada módulo (escaneo, validación, historial)." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2544" y="230" width="156" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-156" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-157" target="-dUA0mCH3mIMWfCApLRG-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-157" value="4.2 Pruebas de integración." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2824" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-158" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-159" target="-dUA0mCH3mIMWfCApLRG-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-159" value="4.2.1 Asegurar comunicación correcta entre módulos." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2805" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-160" value="4.2.2 Validación del flujo completo (escaneo -&gt; validación -&gt; historial). " style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2805" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-161" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-162" target="-dUA0mCH3mIMWfCApLRG-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-162" value="4.3 Pruebas con usuarios." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3085" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-163" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-164" target="-dUA0mCH3mIMWfCApLRG-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-164" value="4.3.1 Seleccionar grupo de usuarios." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3066" y="228" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-165" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-166" target="-dUA0mCH3mIMWfCApLRG-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-166" value="4.3.2 Recoger feedback de usabilidad." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3066" y="330" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-167" value="4.3.3 Ajustar errores o mejoras sugeridas." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3066" y="432" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-168" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-171" target="-dUA0mCH3mIMWfCApLRG-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-169" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-171" target="-dUA0mCH3mIMWfCApLRG-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-170" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-171" target="-dUA0mCH3mIMWfCApLRG-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-171" value="5. Documentación y cierre." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3617" y="-13" width="114" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-172" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-173" target="-dUA0mCH3mIMWfCApLRG-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-173" value="5.1 Documentación técnica." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3354" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-174" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-175" target="-dUA0mCH3mIMWfCApLRG-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-175" value="5.1.1 Guía de instalación y despliegue." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3335" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-176" value="5.1.2 Explicación de arquitectura y módulos." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3335" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-177" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-178" target="-dUA0mCH3mIMWfCApLRG-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-178" value="5.2 Manual de usuario." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3615" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-179" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-180" target="-dUA0mCH3mIMWfCApLRG-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-180" value="5.2.1 Instrucciones paso a paso de su uso." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3596" y="230" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-181" value="5.2.2 Captura de pantallas de las funciones principales." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3596" y="334" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-182" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-183" target="-dUA0mCH3mIMWfCApLRG-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-183" value="5.3 Presentación final y cierre del proyecto." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3876" y="126" width="118" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-184" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-185" target="-dUA0mCH3mIMWfCApLRG-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-185" value="5.3.1 Preparación de diapositivas para la presentación." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3857" y="228" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-186" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="-dUA0mCH3mIMWfCApLRG-187" target="-dUA0mCH3mIMWfCApLRG-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-187" value="5.3.2 Validar entregables contra objetivos iniciales." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3857" y="330" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="-dUA0mCH3mIMWfCApLRG-188" value="5.3.3 Entregar versión final de la aplicación." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3857" y="432" width="156" height="54" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
