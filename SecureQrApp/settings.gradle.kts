@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SecureQR"
 include(":app")
+ 
